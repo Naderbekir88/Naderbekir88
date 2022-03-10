@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/naderbekir1" target="blank"><img src="https://img.shields.io/twitter/follow/naderbekir1?logo=twitter&style=for-the-badge" alt="naderbekir1" /></a> </p>
 
-- 🌱 I’m currently learning **computer vision**
+- 🌱 I’m currently learning **machine learning and computer vision**
 
 - 📫 How to reach me **nader.bekir111@gmail.com**
 
