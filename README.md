@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nader Elsayed</h1>
-<h3 align="center">A passionate software engineer, interested in Data science</h3>
+<h3 align="center">A passionate software engineer, interested in Data Analysis | Data science </h3>
 
 <p align="left"> <a href="https://twitter.com/naderbekir1" target="blank"><img src="https://img.shields.io/twitter/follow/naderbekir1?logo=twitter&style=for-the-badge" alt="naderbekir1" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning and computer vision**
+- 👋 Hi, I’m Nader Elsayed
+- 👀 I’m interested in Python, SQL, Power BI, and Tableau
+- 🌱 I’m currently learning **Data Analysis and Bi** 
 
-- 📫 How to reach me **nader.bekir111@gmail.com**
+- 📫 How to reach me **nader.bekir12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
