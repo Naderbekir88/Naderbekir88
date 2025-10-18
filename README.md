@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://twitter.com/naderbekir1" target="blank"><img src="https://img.shields.io/twitter/follow/naderbekir1?logo=twitter&style=for-the-badge" alt="naderbekir1" /></a> </p>
 
 - 👋 Hi, I’m Nader Elsayed
-- 👀 I’m interested in Python, SQL, Power BI, and Tableau
-- 🌱 I’m currently learning **Data Analysis and Bi** 
+- 👀 I’m interested in Data Engineering Using Informatica Powercenter,Informatica IDQ , Power BI and Looker Studio
+- 🌱 I’m currently learning **Data Engineering and Bi** 
 
-- 📫 How to reach me **nader.bekir12@gmail.com**
+- 📫 How to reach me **nader.bekir111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naderbekir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naderbekir1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nader-bekir-86a910188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nader-bekir-86a910188/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nader-bekir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nader-bekir-86a910188/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
